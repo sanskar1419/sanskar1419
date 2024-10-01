@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/sanskar1419/Project_Screenshot/blob/master/developer-8829735.jpg?raw=true" width="1000">
+<img align="center" src="https://github.com/sanskar1419/Project_Screenshot/blob/master/developer-8764527.jpg?raw=true" width="1000">
 <h1 align="center">Hi 👋, I'm Sanskar Gupta</h1>
 <h3 align="center">A passionate and enthusiastic fullstack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/sanskar1419/Project_Screenshot/blob/master/developer-8764524.jpg?raw=true">
